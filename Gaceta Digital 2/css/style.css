@@ -1,0 +1,70 @@
+@font-face {
+font-family: "eurofurence light";
+src: url(fonts/eurof35.ttf) format("truetype");
+}
+
+h2{
+	font-family: eurofurence light;
+} 
+
+h1{
+	font-family: eurofurence light;
+}
+
+.parrafoslider{
+	font-family: eurofurence light;
+	font-size: 24px;
+
+}
+
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+.navbar-default{
+	background-color: #fff;
+    border-color: #fff;
+
+}
+
+.navbar-nav>li>a {
+border-radius: 15px 30px;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	background-color: rgba(0, 240, 248, 0.52);
+}
+
+.navbar-default .navbar-nav>.open>a:hover{
+
+	background-color: rgba(0, 240, 248, 0.52);
+}
+
+
+.dropdown-menu{
+	border: 1px solid rgba(0, 240, 248, 0.52);
+	border-radius: 15px 30px;
+}
+
+
+
+
+.page-header{
+	    margin-top: 20px;
+	    padding-left: 30px;
+	    border-bottom: 3px solid rgba(255, 159, 54, 0.78);
+}
+
+.jumbotron{
+	background-color: rgba(255, 188, 0, 0.28);
+}
+
+.jumbotron p{
+	font-size: 16px;
+}
+.jumbotron h1{
+	font-size: 33px;
+}
+
+
