@@ -1,0 +1,24 @@
+body{
+	background-color: #000;
+	}
+
+.navbar-inverse .navbar-brand:hover{
+
+	color: #F1DC1D
+}
+
+
+
+
+.navbar-inverse{
+	background-color: #000;
+	border-color: #000;
+}
+
+.navbar-inverse .navbar-nav>.active>a{
+	background-color: #F1DC1D
+}
+
+.navbar-inverse .navbar-brand{
+	color:#fff;
+}
