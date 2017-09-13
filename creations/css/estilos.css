@@ -1,24 +1,18 @@
 body{
-	background-color: #000;
-	}
-
-.navbar-inverse .navbar-brand:hover{
-
-	color: #F1DC1D
-}
-
-
-
-
-.navbar-inverse{
-	background-color: #000;
-	border-color: #000;
-}
-
-.navbar-inverse .navbar-nav>.active>a{
-	background-color: #F1DC1D
-}
-
-.navbar-inverse .navbar-brand{
+	background-color: black;
 	color:#fff;
+}
+
+	.page-header{
+	    margin-top: 10px;
+	    margin-bottom: 30px;
+	    border-bottom: 3px solid #f4e822;
+}
+.servicios{
+	margin-top: 20px;
+border-top: 3px solid #f4e822;
+
+}
+ul li{
+list-style:none;
 }
